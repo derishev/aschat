@@ -1,0 +1,32 @@
+{
+    "orders": [
+        {
+            "item": "Intel Core i9-10900F",
+            "quantity": "1",
+            "price": "28999",
+            "buyer": "Деришев",
+            "date": "28.05.2023"
+        },
+        {
+            "item": "Intel Core i9-12900 OEM",
+            "quantity": "1",
+            "price": "36499",
+            "buyer": "Бусоргин",
+            "date": "01.05.2023"
+        },
+        {
+            "item": "Intel Core i9-10900F",
+            "quantity": "1",
+            "price": "28999",
+            "buyer": "Деришев",
+            "date": "28.05.2023"
+        },
+        {
+            "item": "Intel Core i9-12900 OEM",
+            "quantity": "1",
+            "price": "36499",
+            "buyer": "Бусоргин",
+            "date": "01.05.2023"
+        }
+    ]
+}
