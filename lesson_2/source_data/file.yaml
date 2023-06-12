@@ -1,0 +1,11 @@
+items:
+- CPU
+- motherboard
+- power unit
+- video card
+items_price:
+  CPU: 200€-1000€
+  motherboard: 100€-500€
+  power unit: 20€-400€
+  video card: 100€-2500€
+items_quantity: 4
